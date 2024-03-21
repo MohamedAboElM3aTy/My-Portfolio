@@ -50,7 +50,7 @@ html {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(images/Home.png);
+  background-image: url(images/Home2.png);
   background-size: cover;
   background-position: center;
 
@@ -668,7 +668,7 @@ nav .fas {
 
 .service-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 40px;
   margin-top: 50px;
 }
