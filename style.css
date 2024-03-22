@@ -669,11 +669,9 @@ nav .fas {
 .service-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 40px;
+  grid-gap: 50px;
   margin-top: 50px;
 }
-
-
 
 .card2 {
   width: 300px;
