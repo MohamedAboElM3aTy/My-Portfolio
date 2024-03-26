@@ -15,7 +15,6 @@ body {
 
 html {
   scroll-behavior: smooth;
-
 }
 
 
@@ -53,9 +52,6 @@ html {
   background-image: url(images/Home2.png);
   background-size: cover;
   background-position: center;
-
-
-
 }
 
 @keyframes morph {
@@ -937,13 +933,11 @@ nav .fas {
   margin-left: 30px;
   margin-top: 15px;
   margin-bottom: 20px;
-
 }
 
 .p_color {
   color: var(--theme-ui-colors-black, #000);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
 
 .p_hcolor {
@@ -952,14 +946,11 @@ nav .fas {
   font-weight: 700;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 29px;
-
-
 }
 
 .ggwp {
   font-size: 22px;
   margin-bottom: 10px;
-
 }
 
 
@@ -979,16 +970,12 @@ nav .fas {
   font-weight: 700;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 20px;
-
-
 }
-
 /* Project section */
 
 
 /* photographs section */
 #photographs {
-
   margin-right: -40px;
 
 }
@@ -1857,36 +1844,10 @@ form textarea {
 
 
 .gotoTop svg {
-
   cursor: pointer;
   height: 40px;
   width: 45px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* set screens  */
 
@@ -1895,7 +1856,7 @@ form textarea {
 
 
   #header {
-      background-image: url(images/dp.jpg);
+      background-image: url(images/Google.JPG);
 
   }
 
@@ -2738,7 +2699,7 @@ form textarea {
 
   #header {
 
-      background-image: url(images/dp.jpg);
+      background-image: url(images/Google.JPG);
   }
 
 
